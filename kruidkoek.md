@@ -44,6 +44,11 @@
 * 35 min 170°C achter + onderwarmte
 
 
+## Bewaren
+
+* 1-2 weken afgeloten op kamertemp.
+* vriezer
+
 ## Notes for next time
 
 * Oven met 60 min achter + onderwarmte @ 170°C
