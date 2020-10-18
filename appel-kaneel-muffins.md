@@ -2,13 +2,22 @@
 
 Recept voor 12 muffins.
 
-## Ingredienten
+## Benodigdheden
 
+* Kom
+* Weegschaal
+* Maatbeker
+* Spatel
+* Muffin blik & papiere vormpjes
+* Citroen uitpers apparaat
+* Oven
+
+## Ingredienten
 
 ##### Voor het beslag
 
-* 300 Gram bloem
-* 150 Gram lichtbruine basterdsuiker
+* 300 gram bloem
+* 150 gram lichtbruine basterdsuiker
 * 1 tl baking soda
 * 2 tl kaneelpoeder
 * Rasp van ½ citroen
@@ -27,17 +36,6 @@ Recept voor 12 muffins.
 ##### Optioneel
 
 * grove kaneelsuiker
-
-## Benodigdheden
-
-* Kom
-* Weegschaal
-* Maatbeker
-* Spatel
-* Muffin blik & papiere vormpjes
-* Citroen uitpers apparaat
-* Oven
-
 
 ## Uitvoering
 

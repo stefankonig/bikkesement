@@ -1,18 +1,5 @@
 # Kruidkoek
 
-
-## Ingredienten
-
-* 500 Gram Zelfrijzend bakmeel
-* 500 Gram Bruine suiker
-* 250 Gram Rozijnen
-* 1 Ei
-* 1 Sap van sinaasappel
-* 1 Snufje zout
-* 250-300 ml Melk
-* 1 eetlepel speculaaskruiden
-
-
 ## Benodigdheden
 
 * Kom
@@ -25,6 +12,16 @@
 * Sateprikker
 * Oven
 
+## Ingredienten
+
+* 500 gram Zelfrijzend bakmeel
+* 500 gram Bruine suiker
+* 250 gram Rozijnen
+* 1 Ei
+* 1 Sap van sinaasappel
+* 1 Snufje zout
+* 250-300 ml Melk
+* 1 eetlepel speculaaskruiden
 
 ## Uitvoering
 
