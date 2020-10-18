@@ -8,6 +8,7 @@ Recept voor 12 muffins.
 * Weegschaal
 * Maatbeker
 * Spatel
+* Rasp
 * Muffin blik & papiere vormpjes
 * Citroen uitpers apparaat
 * Oven
