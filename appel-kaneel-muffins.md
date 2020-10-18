@@ -57,6 +57,7 @@ Recept voor 12+ muffins.
 ## Bewaren
 
 * 1 week afgeloten @ kamertemp
+* invriezen
 
 ## Notes for next time
 
