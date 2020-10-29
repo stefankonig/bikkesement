@@ -57,11 +57,11 @@ Recept voor 12+ muffins.
 ## Bewaren
 
 * 1 week afgeloten @ kamertemp
-* invriezen
+* 3 maanden invriezen
 
 ## Notes for next time
 
-* - Meer richting de laurasbakery variant proberen met vanille extract
+* Meer richting de laurasbakery variant proberen met vanille extract
 
 ### Sources
 * [rutgetbakt.nl](https://rutgerbakt.nl/gebak-recepten/muffins/appel-kaneel-muffins/)
