@@ -18,7 +18,7 @@ Recept voor 16+ stukjes
 
 ## Ingredienten
 
-* 250 gram Bastogne koeken
+* 260 gram Bastogne koeken
 * 70 gram ongezouten roomboter
 * 430 gram roomkaas
 * 85 gram zure room
@@ -36,22 +36,23 @@ Recept voor 16+ stukjes
 1. Bedek de bodem van de springvorm met bakpapier.
 2. Smelt de boter in een kommetje boven de steelpan.
 3. Maal doe ondertussen de bastogne koeken in een grote ziplock en sla/ rol fijn met een deegroller, of gebruik een blender.
-4. Gooi de koekkruimels bij de boter en roer tot een samenhangend geheel.
+4. Gooi de koekkruimels bij de boter en roer / spatel door elkaar.
 5. Doe de koekkruimels met boter in de springvorm en duw stevig aan met de achterkant van een natte lepel.
 6. Zet de springvorm met bastogne bodem in de koelkast.
 7. Mix de roomkaas met de suiker tot een romig en glad mengsel.
-8. Voeg de eieren één voor één toe en mix tussendoor.
-9. Roer de zure room met de vanille-extract glad en voeg samen met het bloem toe aan het roomkaasmengsel.
-10. Nogmaals kort mixen tot een glad beslag.
-11. Giet het cheesecakebeslag over de Bastogne bodem en bak voor 40 minuten op 150 graden (boven- en onderwarmte).
-12. Laat de cheesecake in de oven afkoelen tot (bijna) kamertemperatuur en zet daarna in de koelkast voor minstens 4 uur tot het volledig is opgesteven.
-13. Snijd de cheesecake in bite-size stukjes.
+8. Warm de over voor op 150 graden met onderwarmte.
+9. Voeg de eieren één voor één toe en mix tussendoor.
+10. Roer de zure room met de vanille-extract glad en voeg samen met het bloem toe aan het roomkaasmengsel.
+11. Nogmaals kort mixen tot een glad beslag.
+12. Giet het cheesecakebeslag over de Bastogne bodem en bak voor 40 minuten op 150 graden (boven- en onderwarmte).
+13. Laat de cheesecake in de oven afkoelen tot (bijna) kamertemperatuur en zet daarna in de koelkast voor minstens 4 uur tot het volledig is opgesteven.
+14. Snijd de cheesecake in bite-size stukjes.
 
 
 ##### Optioneel
 
-14. Smelt 2/3 van de chocolade au bain marie en voeg hierna de rest toe, blijf roeren tot alles is gesmolten.
-15. Laat de chocolade afkoelen tot deze koel aanvoelt. Doe in een spuitzakje of cornetje en trek chocolade slierten over de stukken cheesecake.
+15. Smelt 2/3 van de chocolade au bain marie en voeg hierna de rest toe, blijf roeren tot alles is gesmolten.
+16. Laat de chocolade afkoelen tot deze koel aanvoelt. Doe in een spuitzakje of cornetje en trek chocolade slierten over de stukken cheesecake.
 
 
 ## Bewaren
@@ -61,7 +62,7 @@ Recept voor 16+ stukjes
 
 ## Notes for next time
 
-* Add text
+* Boter beter mengen met bastogne, zodat je geen "klompjes" krijgt
 
 ### Sources
 * [laurasbakery.nl](https://www.laurasbakery.nl/bastogne-cheesecake-bites/)
