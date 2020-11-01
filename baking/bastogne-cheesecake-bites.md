@@ -5,6 +5,7 @@ Recept voor 16+ stukjes
 ## Benodigdheden
 
 * Vierkant Springvorm 24x24 cm
+* Bakpapier
 * 2x Kom
 * Mixer
 * Weegschaal
@@ -12,7 +13,7 @@ Recept voor 16+ stukjes
 * Lepel
 * Oven
 * Steelpannetje
-* Kom om chocolade te smelten
+* Kommetje om chocolade/boter te smelten
 * Paneermeel
 
 ## Ingredienten
@@ -32,12 +33,12 @@ Recept voor 16+ stukjes
 
 ## Uitvoering
 
-1. Vierkante springvorm invetten met boter + paneermeel zodat het er nog afkomt na het bakken
-2. Smelt de boter in een steelpannetje.
-3. Maal ondertussen de bastogne koeken fijn.
+1. Bedek de bodem van de springvorm met bakpapier.
+2. Smelt de boter in een kommetje boven de steelpan.
+3. Maal doe ondertussen de bastogne koeken in een grote ziplock en sla/ rol fijn met een deegroller, of gebruik een blender.
 4. Gooi de koekkruimels bij de boter en roer tot een samenhangend geheel.
-5. Doe de koekkruimels met boter in de springvorm en duw stevig aan met de achterkant van een lepel.
-6. Zet de springvorm in de koelkast.
+5. Doe de koekkruimels met boter in de springvorm en duw stevig aan met de achterkant van een natte lepel.
+6. Zet de springvorm met bastogne bodem in de koelkast.
 7. Mix de roomkaas met de suiker tot een romig en glad mengsel.
 8. Voeg de eieren één voor één toe en mix tussendoor.
 9. Roer de zure room met de vanille-extract glad en voeg samen met het bloem toe aan het roomkaasmengsel.
@@ -64,3 +65,4 @@ Recept voor 16+ stukjes
 
 ### Sources
 * [laurasbakery.nl](https://www.laurasbakery.nl/bastogne-cheesecake-bites/)
+* achterkant LU bastogne doos
