@@ -1,6 +1,6 @@
 # Bastogne cheesecake bites
 
-Recept voor 16+ stukjes
+Recept voor \~30 stukjes
 
 ## Benodigdheden
 
@@ -14,12 +14,11 @@ Recept voor 16+ stukjes
 * Oven
 * Steelpannetje
 * Kommetje om chocolade/boter te smelten
-* Paneermeel
 
 ## Ingredienten
 
-* 260 gram Bastogne koeken
-* 70 gram ongezouten roomboter
+* 200 gram Bastogne koeken
+* 60 gram ongezouten roomboter
 * 430 gram roomkaas
 * 85 gram zure room
 * 130 gram fijne kristalsuiker
@@ -53,6 +52,7 @@ Recept voor 16+ stukjes
 
 15. Smelt 2/3 van de chocolade au bain marie en voeg hierna de rest toe, blijf roeren tot alles is gesmolten.
 16. Laat de chocolade afkoelen tot deze koel aanvoelt. Doe in een spuitzakje of cornetje en trek chocolade slierten over de stukken cheesecake.
+17. Doe wat bodemkruimels van het snijden boven op de chocolade voor de sier
 
 
 ## Bewaren
@@ -63,6 +63,8 @@ Recept voor 16+ stukjes
 ## Notes for next time
 
 * Boter beter mengen met bastogne, zodat je geen "klompjes" krijgt
+* Recept is aangepast voor minder dikke bodem
+* Alternatief recept met Jam oid er doorheen proberen
 
 ### Sources
 * [laurasbakery.nl](https://www.laurasbakery.nl/bastogne-cheesecake-bites/)
