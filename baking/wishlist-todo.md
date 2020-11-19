@@ -4,4 +4,6 @@ Recepten tegengekomen die ik nog wel een keer wil bouwen, in willekeurige volgor
 
 ## Wishlist
 
+* [AppelKruimelPlaatcake](https://rutgerbakt.nl/cake-recepten/appel-kruimel-plaatcake-bakken/)
 * [AppelKaneelKwarkCake](https://www.laurasbakery.nl/appel-kaneel-kwarkcake/)
+
