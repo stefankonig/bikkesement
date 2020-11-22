@@ -5,10 +5,16 @@ Small list of some tea's i have tried, want to try and suggested to try.
 ## Tried
 
 ##### Puritea
-* [Ceylon Earl Grey](https://puritea.nl/product/thee/ceylon-earl-grey/)
+* [Ceylon Earl Grey](https://puritea.nl/product/thee/ceylon-earl-grey/) +1
 * [Apple Cinnamon](https://puritea.nl/product/thee/apple-cinnamon/)
 * [White Tea](https://puritea.nl/product/thee/white-tea/)
 * [Pomegranate Green](https://puritea.nl/product/thee/pomegranate-green/)
+* [Jasmine Green](https://puritea.nl/product/thee/jasmine-green/)
+* [Honey Rooibos](https://puritea.nl/product/thee/honey-rooibos/)
+* [Chamomile Lemon](https://puritea.nl/product/thee/chamomile-lemon/)
+* [Ceylon oolong](https://puritea.nl/product/thee/ceylon-oolong/)
+* [Orange Chai](https://puritea.nl/product/thee/orange-chai/)
+
 
 ## Wants
 
