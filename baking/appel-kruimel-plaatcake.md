@@ -1,6 +1,6 @@
 # Appel Kruimel plaatcake
 
-Recept voor 15 stukken.
+Recept voor 16 stukken.
 
 ## Benodigdheden
 
@@ -40,7 +40,8 @@ Recept voor 15 stukken.
 
 ##### Optioneel
 
-* poedersuiker, om te bestuiven 
+* poedersuiker, om te bestuiven
+* grove kaneelsuiker voor op de kruimellaag
 
 ## Uitvoering
 
@@ -48,7 +49,7 @@ Recept voor 15 stukken.
 
 1. Meng de bloem, basterdsuiker en een snuf zout in een kom.
 2. Doe de in blokjes gesneden boter er bij. (haal de boter voor de cake vast uit de koelkast)
-3. Maak hier met je vingers een kruimelig deeg van.
+3. Maak hier met je vingers een kruimelig deeg van. (let op dat er niet teveel grote kruimels zijn)
 4. Zet de deegkruimels in de koelkast tot je ze gaat gebruiken.
 
 ##### Topping
@@ -67,7 +68,7 @@ Recept voor 15 stukken.
  Schep het beslag in de vorm
 7. Verwarm de oven voor op 175 graden.
 8. Verdeel de appelpartjes (topping) over het beslag.
-9. Strooi herbovenop de kruimels. (wat grove kaneelsuiker er bij proberen)
+9. Strooi herbovenop de kruimels. (wat grove kaneelsuiker er bij optioneel)
 10. Bak de plaatcake in de over voor 60 minuten.
 12. Test of de cake gaar is door in het midden een satéprikker te steken
 13. Laat de cake afkoelen in de vorm.
@@ -84,6 +85,7 @@ Recept voor 15 stukken.
 
 ## Notes for next time
 
+* let op dat de kruimels niet te groot zijn
 * variatie proberen met room: [laura's bakery - appel kruimel roomcake](https://www.laurasbakery.nl/appel-kruimel-roomcake/)
 
 ### Sources
