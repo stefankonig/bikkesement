@@ -66,9 +66,15 @@
 
 ## Notes for next time
 
-* Recept aanpassen om minder droog eindresultaat te krijgen, zie marinas bakery
-* Niet te grootte ballen maken, deze worden ook nog groter door het rijzen
+* Recept aanpassen om minder droog eindresultaat te krijgen, zie sources.
+	* meer boter/suiker gebruiken
+* Niet te grootte ballen maken, deze worden ook nog groter door het rijzen.
+* [recept](http://kleinstukjedan.nl/de-zeeuwse-bolus/) voor bolussen raadplegen, voor uitleg over het maken van het deeg.
 
 ### Sources
 * [eetspiratie.nl - monkey bread](https://www.eetspiratie.nl/monkey-bread-zoet-plukbrood/)
+
+###### nog raad te plegen voor next time
+
 * [marinasbakery.nl - monkey bread](https://www.marinasbakery.nl/recepten/zoet-bakken/overig-recepten-zoet/monkey-bread/)
+* [ah.nl - monkeybread](https://www.ah.nl/kookschrift/verzameld-recept?id=417412&userid=252221)
