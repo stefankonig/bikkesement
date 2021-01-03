@@ -9,7 +9,7 @@
 * Spatel
 * Rasp
 * Bakkwast
-* Ronde Bakvorm 23x23 (geen springvorm)
+* Ronde Bakvorm 20cm (geen springvorm)
 * Oven
 * Mixer (optioneel)
 
