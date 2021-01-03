@@ -24,7 +24,7 @@
 1. Doe de amandelen, de suiker en de citroenrasp in de keukenmachine met hakmessen. Hak de noten fijn.
 2. Voeg het ei toe en mix verder tot er een samenhangend geheel is ontstaan.
 3. Wikkel het amandelspijs in plasticfolie en laat het indien mogelijk enkele dagen rusten in de koelkast, zo kan de smaak zich goed ontwikkelen
-3. Het amandelspijs is echter ook direct te verwerken. In dat geval maak je het voordat je aan het recept begint en leg je het te rusten in de koelkast tot je het nodig hebt.
+4. Het amandelspijs is echter ook direct te verwerken. In dat geval maak je het voordat je aan het recept begint en leg je het te rusten in de koelkast tot je het nodig hebt.
 
 ## Bewaren
 
