@@ -5,9 +5,11 @@ voor \~200 gram custard.
 ## Benodigdheden
 
 * Steelpannetje
-* Schaaltje
+* 2x Schaaltje
 * Vork
 * Huishoudfolie
+* Zeef
+* Spatel
 
 ## Ingredienten
 
@@ -15,22 +17,23 @@ voor \~200 gram custard.
 * 50 gram fijne kristalsuiker
 * 4 eierdooiers
 * 1 el vanille-extract
-* 1 el Maizena
+* 1 el maizena
 
 
 ## Uitvoering
 
-1. Zet een steelpan op het vuur en giet hier de melk met de vanille extract in.
-2. Breng de vanille melk langzaam aan de kook en kook alles ongeveer 10 minuten lang. Op deze manier trekt de vanille extract goed in de melk.
+1. Zet een steelpan op het vuur en giet hier de melk met de vanille extract in (roer af en toe met de spatel).
+2. Breng de vanille melk langzaam aan de kook en kook alles ongeveer 10 minuten lang. Zodat een groot gedeelte van het water verdampt.
 3. Split de dooiers van de eieren en klop 1 voor 1 het eigeel los.
 4. Voeg de suiker en de eetlepel maizena toe aan het eigeel.
 5. Meng alles goed door elkaar zodat er een glad papje ontstaat.
 6. Als de melk goed gekookt heeft, kun je de steelpan van het vuur halen.
-7. Roer het eigeel mengsel beetje bij beetje toe aan de warme vanille melk. Blijf alles goed roeren zodat er een romig mengsel ontstaat.
-8. Breng alles opnieuw aan de kook. Je zult zien dat het steeds dikker wordt.
-9. Laat het ongeveer 3 minuten zachtjes door koken.
-10. Giet daarna de room in een schaal en dek deze af met huishoudfolie.
-11. Laat de room eerst afkoelen buiten de koelkast en zodra het niet meer zo warm is kun je de schaal in de koelkast zetten.
+7. Schenk beetje bij beetje de melk door een zeefje bij het eigeel mengsel en roer ondertussen goed.
+8. Maak het steelpannetje schoon, en doe het mengsel hierin.
+9. Breng alles opnieuw aan de kook. terwijl je roert met de spatel zal het mengsel steeds dikker worden
+10. Laat het ongeveer 3 minuten zachtjes door koken.
+11. Giet daarna de room in een schaal en dek deze af met huishoudfolie.
+12. Laat de room eerst afkoelen buiten de koelkast en zodra het niet meer zo warm is kun je de schaal in de koelkast zetten.
 
 ## Bewaren
 
