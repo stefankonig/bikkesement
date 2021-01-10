@@ -46,4 +46,3 @@ voor \~200 gram custard.
 ### Sources
 
 * [DeKokendeZussen.nl - Basisrecept voor Custard](https://www.dekokendezussen.nl/recepten/custard/)
-* 
