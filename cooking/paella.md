@@ -12,7 +12,7 @@ WiP, 2 personen
 * 125 g rauwe chorizo, ontveld
 * 3 trostomaten
 * 1/2 teen knoflook
-* peterselie
+*  1/2 eetlepel fijngehakte peterselie
 * 150g diepvries dop/tuinerwten
 * 1 paprika
 
@@ -22,7 +22,7 @@ WiP, 2 personen
 1. Maak de kippenbouillon.
 2. Doe de inhoud van 1 zakje saffraan in een kommetje. Voeg 2 eetlepels hete kippenbouillon toe en laat staan voor gebruik
 3. Verwijder met een theelepel de zaadlijsten uit 4 gehalveerde tomaten. Rasp het vruchtvlees van de tomaten met een grove rasp, tot je alleen het vel over hebt. Het vel kun je weggooien.
-4. Snipper de uit en snijd de chorizo in plakjes en de paprika in blokjes.
+4. Snipper de ui en snijd de chorizo in plakjes en de paprika in blokjes.
 5. Bestrooi de kip met peper en zout
 6. Bak de kip in olijfolie in 5 minten gaar.
 7. Voeg de uien, paprika en chorizo 3 minuten mee totdat de ui glazig is.
