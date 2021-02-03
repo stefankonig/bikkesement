@@ -1,6 +1,6 @@
 # Volkoren bananenbrood muffins
 
-Voor 12 muffins
+Voor 12 muffins, met weinig smaak. DNR.
 
 ## Benodigdheden
 
@@ -26,7 +26,7 @@ Voor 12 muffins
 ## Uitvoering
 
 1. Pureer de bananen tot een papje. Voeg de eieren, één voor één, samen met het vanille-extract toe.
-2. Voeg het amandelmeel, bloem, bakpoeder, baking soda en zout toe. Mix dit door het beslag tot het helemaal is opgenomen.
+2. Voeg het amandelmeel, volkoren meel, bakpoeder, baking soda en zout toe. Mix dit door het beslag tot het helemaal is opgenomen.
 3. Zet muffin- of cupcakevormpjes in een muffintray en vul ze met het beslag. De vormpjes mogen lekker vol en tot iets onder de rand gevuld worden.
 4. Strooi amandelschaafsel over de muffins heen ter decoratie.
 5. Bak de bananenbrood muffins in ongeveer 20 minuten op 180°C graden (boven- en onderwarmte) gaar. Een houten prikker moet er schoon uitkomen.
