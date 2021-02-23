@@ -37,7 +37,7 @@
 5. Meng het boter-suiker mengsel door de bloem heen.
 6. Prak de bananen in een apart schaaltje.
 7. Voeg de bananenprut (en rozijnen) bij de de rest. en meng tot het gelijk verdeeld is.
-8. Warm de oven voor op 170 graden.
+8. Warm de oven voor op 165 graden.
 8. Stort het beslag in de cakevorm (met bakpapier) en bak dit in de oven voor ongeveer 50-65 minuten of tot een houten prikker er droog uitkomt.
 
 
