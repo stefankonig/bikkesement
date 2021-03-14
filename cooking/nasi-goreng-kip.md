@@ -5,7 +5,7 @@
 ## Ingredienten
 
 * 200 gram kipblokjes
-* 450 gram ah nasi groente
+* 225 gram ah nasi groente
 * 130 gram basmati rijst
 * 1 ui
 * 0,5 knoflook teen
@@ -13,7 +13,7 @@
 * Kurkuma rasp
 * Komijn poeder
 * Ketjap/sambal manis
-* 2 eieren
+* 3 eieren
 
 ###### Optioneel
 
@@ -27,7 +27,7 @@
 
 1. Was de rijst goed (met zeef), zodat het niet gaat plakken.
 2. Kook de rijst.
-3. Bak 2 omelet eieren.
+3. Bak 3 omelet eieren.
 4. Laat de rijst uitdruppen in de zeef.
 5. Zet de rijst in de koelkast. bewaar de eieren op een bord afgedekt.
 
