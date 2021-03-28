@@ -52,6 +52,7 @@
 
 ## Notes for next time
 
+* met bruine suiker proberen
 
 ### Sources
 * [24kitchen.nl - Courgette cake](https://www.24kitchen.nl/recepten/courgettecake)
