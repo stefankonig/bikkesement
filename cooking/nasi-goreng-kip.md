@@ -25,8 +25,9 @@
 
 ##### Deel 1
 
-1. Was de rijst goed (met zeef), zodat het niet gaat plakken.
-2. Kook de rijst.
+1. Was de rijst goed, zodat het niet gaat plakken.
+2. Voeg 235 ml water toe.
+2. Kook de rijst op laag vuur ong 15 min of tot het water is opgenomen.
 3. Bak 3 omelet eieren.
 4. Laat de rijst uitdruppen in de zeef.
 5. Zet de rijst in de koelkast. bewaar de eieren op een bord afgedekt.
