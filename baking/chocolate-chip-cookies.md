@@ -37,7 +37,7 @@
 
 ## Bewaren
 
-* 
+* Week afgesloten op kamertemperatuur
 
 ## Notes for next time
 
