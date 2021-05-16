@@ -10,7 +10,7 @@ WiP, 2 personen
 * safraan
 * 1 ui
 * 125 g rauwe chorizo, ontveld
-* 3 trostomaten
+* 4 trostomaten
 * 1/2 teen knoflook
 *  1/2 eetlepel fijngehakte peterselie
 * 150g diepvries dop/tuinerwten
