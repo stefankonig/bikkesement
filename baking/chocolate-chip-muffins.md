@@ -1,6 +1,6 @@
 # Chocolate chip muffins
 
-voor 12 muffins
+voor 10 muffins
 
 ## Benodigdheden
 
@@ -21,14 +21,14 @@ voor 12 muffins
 * 120 gram suiker
 * 7.5 gram bakpoeder
 * 2 eieren
-* 2 tl vanille-extract
+* 1 el vanille-extract
 
 
 ## Uitvoering
 
 1. Doe de slagroom in een kom en voeg de suiker en vanille extract toe.
 2. Klop met een garde (of kort met de mixer) doorelkaar. Kluts de eieren erbij en mix er ook door.
-3. Doe het bakmeel en de bakpoeder in een aparte kom.
+3. Doe het bloem en de bakpoeder in een aparte kom.
 4. Spatel het natte mengsel door het droge mengsel.
 5. Voeg de chocolade stukjes toe en schep er ook een keer doorheen.
 6. Vul de muffinvormpjes met het beslag tot net onder de rand. 
@@ -41,7 +41,9 @@ voor 12 muffins
 
 ## Notes for next time
 
-* meer vanille extract proberen, orginele recept (leuke recepten) spreekt over 1 el.
+* meer slagroom toevoegen, of de boter & melk ipv slagroom (lauras bakery)
+* op 180 graden laten zodat buitenkant niet te knapperig wordt
+
 
 ### Sauce
 * [leukerecepten.nl - chocolate chip muffins](https://www.leukerecepten.nl/recepten/chocolate-chip-muffins/)
