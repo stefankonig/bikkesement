@@ -14,26 +14,24 @@
 
 ## Uitvoering
 
-1. Water op vuur zetten om eieren te koken.
+1. Water op vuur zetten om eieren te koken (10 min).
 2. Tegelijkertijd kan je de schnitzels vast bakken.
-3. Eieren koken. (x minuten)
-4. Ong 1,3 Schitzel snijden in blokjes. de rest kan weg of opeten of whatnot.
-5. Nadat de eieren klaar zijn. laten schrikken en pellen.
-6. Aardappelen in pan doen, water toevoegen tot de aardappelen allen onderwater zijn, niet meer.
-7. Pan op vuur, zodat aardappelen en het water tegelijk warm worden.
-8. Nadat het water kookt, 14 min timen.
-9. Tegelijkertijd wokpan aangooien en wat olie er in doen.
-10. Eerst wat UI fruit0n.
-11. Beetje bij beetje andijvie toevoegen, en een theelepel vadouvan
-12. Zodra klaar, wachten tot de aardappels klaar zijn. intussen het ei in stukjes snijden.
-13. Aardappels afgieten en stamp0n. (beetje boter/melk zover nodig is)
-14. Steeds wat andijvie er bij stampen + schnitzel + ei
-15. Kloar
+3. Ong 1,3 Schitzel snijden in blokjes. de rest kan weg of opeten of whatnot.
+4. Nadat de eieren klaar zijn. laten schrikken en pellen.
+5. Aardappelen in pan doen, water toevoegen tot de aardappelen allen onderwater zijn, niet meer.
+6. Pan op vuur, zodat aardappelen en het water tegelijk warm worden.
+7. Nadat het water kookt, 14 min timen.
+8. Tegelijkertijd wokpan aangooien en wat olie er in doen.
+9. Eerst wat UI fruit0n.
+10. Beetje bij beetje andijvie toevoegen, en een theelepel vadouvan
+11. Zodra klaar, wachten tot de aardappels klaar zijn. intussen het ei in stukjes snijden.
+12. Aardappels afgieten en stamp0n. (beetje boter/melk zover nodig is)
+13. Steeds wat andijvie er bij stampen + schnitzel + ei
+14. Kloar
 
 
 ## Notes for next time
 
-* Lepeltje mosterd door de aardappelen heen
 
 ### Sources
 * moeders
