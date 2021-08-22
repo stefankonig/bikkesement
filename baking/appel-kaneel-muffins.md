@@ -20,7 +20,7 @@ Recept voor 12+ muffins.
 * 300 gram bloem
 * 150 gram lichtbruine basterdsuiker
 * 200 ml karnemelk
-* 120 ml zonnebloemolie
+* 100 gram zonnebloemolie
 * 1 tl baking soda
 * 2 tl kaneelpoeder
 * Rasp van ½ citroen
@@ -50,7 +50,7 @@ Recept voor 12+ muffins.
 7. Meng 2/3 van de appelblokjes door het beslag.
 8. Vul de papieren vormpjes met het beslag, De vormpjes mogen redelijk vol (ongeveer een halve centimeter onder de rand).
 9. Voeg de resterende appelstukjes & wat grove kaneel suiker bovenop de muffins.
-10. Bak de muffins ~20 minuten op 200 graden.
+10. Bak de muffins ~20 (mijn oven kleine 30min) minuten op 200 graden.
 11. Haal ze met papier en al uit de bakvorm en laat ze afkoelen op een rooster.
 
 
