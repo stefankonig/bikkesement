@@ -5,7 +5,7 @@ Zelf verzonnen met de knorr burritos als startpunt
 
 ## Ingredienten
 
-* 8 kleine wraps santa maria
+* 4 med sized wraps corn/wheat
 * 400 gram mexicaanse groente
 * 300 gram gerookte kipreepjes
 * Geraspte kaas
@@ -22,7 +22,7 @@ Zelf verzonnen met de knorr burritos als startpunt
 7. Sluit de wrap met een coctailprikker.
 8. Leg de wrap in de ovenschaal en herhaal tot de wraps op zijn.
 9. Doe wat geraspte kaas bovenop de burritos in de schaal.
-10. Zet de ovenschaal in de oven voor 15 minuten @ 200 graden.
+10. Zet de ovenschaal in de oven voor 15 minuten @ 220 graden.
 
 
 ## Notes for next time

@@ -30,8 +30,8 @@ WiP, 2 personen
 10. Voeg de tomaten toe en bak nog 3 minuten.
 11. Schenk de hete kippenbouillon en het saffraanmengsel bij de rijst.
 12. Breng aan de kook, roer het nog 1 keer goed door en zet het vuur laag. niet meer roeren hierna, deksel er op.
-13. Voeg na 20 minuten de doperwten toe.
-14. Na totaal 25 minuten kijken of de rijst gaar is, haal een rijstkorrel uit de pan en snijd hem doormidden. Als de kern niet meer zichtbaar is, is de rijst gaar.
+13. Voeg na 23 minuten de doperwten toe.
+14. Na totaal 28 minuten kijken of de rijst gaar is, haal een rijstkorrel uit de pan en snijd hem doormidden. Als de kern niet meer zichtbaar is, is de rijst gaar.
 15. Voeg als laatste nog wat peterselie toe en roer de paella door.
 
 ## Notes for next time
@@ -41,5 +41,5 @@ WiP, 2 personen
 ### Sources
 
 * [Youtube.com - Paella maken - Allerhande](https://www.youtube.com/watch?v=kT4qLpYqm3I)
-* [AH.nl - Smeui­i­ge pa­el­la met kip](https://www.ah.nl/allerhande/recept/R-R824336/smeuiige-paella-met-kip)
+* [AH.nl - Smeuiige paella met kip](https://www.ah.nl/allerhande/recept/R-R824336/smeuiige-paella-met-kip)
 * [Bettyskitchen.nl - Paella met kip en chorizo](https://bettyskitchen.nl/paella-met-kip-chorizo/)
