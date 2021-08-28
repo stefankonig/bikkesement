@@ -11,6 +11,7 @@
 * 0,5 knoflook teen
 * Gember rasp
 * Kurkuma rasp
+* chilipoeder
 * Komijn poeder
 * Ketjap/sambal manis
 * 3 eieren
@@ -33,9 +34,9 @@
 ##### Deel 2
 
 6. Pel de ui en halve teen knoflook en snijd fijn.
-7. Verwarm bakolie in een koekenpan en fruit de ui en knoflook.
-8. Voeg de gember rasp en kipblokjes toe en roerbak in circa 5-8 minuten gaar.
-9. Breng op smaak met zout en (chili)peper. Schep uit de pan en leg afgedekt opzij.
+7. Verwarm bakolie in een koekenpan.
+8. Voeg de ui en knoflook en kipblokjes toe en roerbak in circa 5-8 minuten gaar.
+9. Breng op smaak met gemberrasp, zout en chilipoeder. Schep uit de pan en leg afgedekt opzij.
 10. Roerbak nu op een hoog vuur de nasigroenten in dezelfde pan. Breng op smaak met komijnpoeder.
 11. Verwarm wokolie in een andere koekenpan en roerbak de gekookte rijst met de kurkuma en ketjap/sambal op een middelhoog vuur.
 12. Bak de kip nog enkele minuten mee en schep of schud de rijst regelmatig om.
