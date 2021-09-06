@@ -1,6 +1,6 @@
 # italiaanse ovenschotel
 
-2 personen
+2 personen, do no recommend
 
 ## Ingredienten
 
@@ -32,7 +32,8 @@
 
 ## Notes for next time
 
-* 
+* aardappelen waren nog beetje meh
+* saus was ook beetje meh
 
 ### Sources
 
