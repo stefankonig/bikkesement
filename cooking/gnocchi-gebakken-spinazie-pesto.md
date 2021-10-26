@@ -21,7 +21,7 @@
 
 ## Uitvoering
 
- 1. Schil en snipper de ui. Maak de knoflook schoon.
+ 1. Snipper de ui + knoflook
  2. Verwarm een scheut olie in een wokpan en voeg de gnocchi toe. Bak de gnocchi in ongeveer 5 minuten mooi bruin van buiten en gaar van binnen. Schep uit de pan.
  3. Voeg eventueel nog wat extra olie toe en fruit de ui hier in aan. Pers de knoflook uit boven de pan en bak even mee.
  4. Schep de pesto bij de ui en voeg de kookroom en creme fraiche toe. Laat zachtjes pruttelen tot een romige saus ontstaat.
