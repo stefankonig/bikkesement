@@ -30,16 +30,8 @@
 * 530 gram pompoen
 * 265 gram roomkaas
 * 65 gram fijne kristalsuiker
-* 2,5 el pumpkin spice
+* 2,5 el pumpkin spice (speculaas kruiden)
 * 1 ei (L)
-
-### Pumpkin spice
-
-* 7 el kaneel
-* 3 el gemberpoeder
-* 1 el nootmuskaat (gemalen)
-* 5 tl kruidnagel (gemalen)
-* 5 tl piment (gemalen)
 
 
 ## Uitvoering
@@ -59,6 +51,7 @@
 
 ## Notes for next time
 
+* Met prikken aan het einde van de oventijd, let op dat de pompoenlaag nog nat is
 
 ### Sources
 * [laurasbakery.nl - pumpkin spice brownie](https://www.laurasbakery.nl/pumpkin-spice-brownie/)
