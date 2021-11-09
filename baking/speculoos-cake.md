@@ -7,7 +7,7 @@
 * 2x Kom
 * Weegschaal
 * Spatel
-* Cakevorm
+* Cakevorm 25 cm
 * Bakpapier
 * Mixer
 * Oven
@@ -17,8 +17,9 @@
 
 * 200 gram fijne kristalsuiker
 * 200 gram ongezouten roomboter
+* 200 gram bloem
+* 4,8 gram bakpoeder
 * 4 eieren
-* 200 gram zelfrijzend bakmeel
 * 1 tl kaneel
 * 0,5 tl kruidnagel
 * 75 gram speculoospasta
@@ -30,7 +31,7 @@
 
 1. Mix boter en suiker romig.
 2. Voeg de eieren een-voor-een toe en mix tot deze zijn opgenomen.
-3. Voeg zelfrijzend bakmeel, kaneel en kruidnagel tegelijk toe, mix tot je deze droge ingrediënten niet meer ziet.
+3. Mix de bloem, bakpoeder, kaneel en kruidnagel in een aparte kom, en voeg deze toe aan de boter. mix tot je deze droge ingrediënten niet meer ziet.
 4. Breek de koekjes in kleine stukjes en spatel ze door het beslag.
 5. Stort de helft van het beslag in een met bakpapier beklede cakevorm. Verdeel de helft van de speculoospasta met theelepels over het beslag, roer het er een klein beetje doorheen.
 6. Schep de rest van het beslag in de vorm en doe hetzelfde met de resterende speculoospasta. Verdeel nog wat extra koekkruimels over de cake heen.
@@ -45,6 +46,7 @@ Als de koekjes bovenop tegen het einde van de baktijd erg donker kleuren, kun je
 
 ## Notes for next time
 
+* Na 50 min beginnen met prikken, 60 min was iets te droog
 
 ### Sources
 * [Laurasbakery.nl - Speculoos cake](https://www.laurasbakery.nl/speculoos-cake/)
