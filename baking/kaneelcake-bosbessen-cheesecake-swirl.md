@@ -35,7 +35,7 @@
 ## Uitvoering
 
 1. Maak het cakebeslag door de suiker en boter romig te kloppen.
-2. Voeg de eieren daarna een voor een toe, voeg de volgende pas toe als de eerste is opgenomen
+2. Voeg de eieren daarna een voor een toe, voeg de volgende pas toe als de eerste is opgenomen. (zo min mogelijk kloppen)
 3. Het zelfrijzend bakmeel, zout en kaneel kun je tegelijk toevoegen.
 4. Stop direct met mixen zodra de droge ingrediënten zijn opgenomen.
 5. Maak dan het cheesecakemengsel. In een kommetje roer je roomkaas, suiker, bloem en ei door elkaar tot een gladde massa. Roer niet te lang, daar wordt het namelijk ook steeds dunner van.
