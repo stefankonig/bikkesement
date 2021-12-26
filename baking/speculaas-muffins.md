@@ -2,6 +2,8 @@
 
 Recept voor 12+ muffins.
 
+matig - weinig smaak.
+
 ## Benodigdheden
 
 * 2x Kom

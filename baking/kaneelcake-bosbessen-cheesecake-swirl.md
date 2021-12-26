@@ -8,7 +8,6 @@
 * Spatel
 * Cakevorm 25 cm
 * Bakpapier
-* Mixer
 * Oven
 
 ## Ingredienten
@@ -41,7 +40,7 @@
 5. Maak dan het cheesecakemengsel. In een kommetje roer je roomkaas, suiker, bloem en ei door elkaar tot een gladde massa. Roer niet te lang, daar wordt het namelijk ook steeds dunner van.
 6. Schep het cakebeslag in een met bakpapier beklede cakevorm. Schep dan het roomkaas mengsel erbovenop, samen met de bosbessenjam.
 7. Met een mes roer je vervolgens het cakebeslag, cheesecakemengsel en de jam door elkaar zodat er mooie swirls ontstaan. Roer niet te veel/lang, een klein beetje is meer dan genoeg. tijdens het bakken zullen de swirls namelijk ook nog wat zakken.
-8. Bak de cake in ongeveer 60 minuten op 160 graden (boven- en onderwarmte) gaar.
+8. Bak de cake in ongeveer 50-60 minuten op 170 graden (boven- en onderwarmte) gaar.
 
 ## Bewaren
 
