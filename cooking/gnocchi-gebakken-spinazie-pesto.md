@@ -1,4 +1,4 @@
-# GGnocchi gebakken spinazie en pesto
+# Gnocchi gebakken spinazie en pesto
 
 1,5 personen
 
