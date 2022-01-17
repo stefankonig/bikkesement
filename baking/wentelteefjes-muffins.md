@@ -50,7 +50,8 @@ Recept voor 6 muffins.
 
 ## Notes for next time
 
-* 
+* Wat appel toevoegen
+* Kruimels medium groot laten
 
 ### Sources
 * [laurasbakery.nl - wentelteefjes muffins uit de oven](https://www.laurasbakery.nl/wentelteefjes-muffins-uit-de-oven/)
