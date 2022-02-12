@@ -1,12 +1,12 @@
 # Gnocchi spinazie en pancetta
 
-2 personen
+1 personen
 
 ## Ingredienten
 
-* 500g gnocchi
-* 300g spinazie
-* 100g pancetta
+* 400g gnocchi
+* 150g spinazie
+* 50g pancetta
 * Boter & olijf olie
 * 60 ml witte wijn
 * Beetje kookroom

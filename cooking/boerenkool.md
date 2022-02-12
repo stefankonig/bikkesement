@@ -15,7 +15,7 @@ Boerenkool a la sepa
 
 ## Uitvoering
 
-1. Aardappelen in pan doen, water toevoegen tot de aardappelen allen onderwater zijn, niet meer.
+1. Aardappelen in pan doen, water toevoegen tot de aardappelen half onder water staan, niet meer.
 2. Pan op vuur, zodat aardappelen en het water tegelijk warm worden.
 3. Nadat het water kookt, wacht 7 minuten, hierna boerenkool toevoegen bovenop de aardappelen.
 5. 5 minuten later de worst in de magnetron doen 4,5 min @ 300 watt (285 gram) 3 min (225 gram).
