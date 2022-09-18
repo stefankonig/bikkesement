@@ -7,7 +7,7 @@
 * 1 ui
 * ~400g vastkokende aardappelen 
 * 2 eieren
-* 50g spekreepjes
+* 150g beenham reepjes
 * 25g bloem
 * 200g bol mozzarella
 * 1 courgette
@@ -17,8 +17,8 @@
 
 ## Uitvoering
 
-1. Snipper de uien en snij de spekreepjes in kleine blokjes.
-2. Meng met de ui, eieren, bloem, spekreepjes, peper en eventueel zout in een kom.
+1. Snipper de ui.
+2. Meng met de ui, eieren, bloem, beenham reepjes, peper en eventueel zout in een kom.
 3. Schil de aardappelen.
 4. Verwarm de oven voor op 220 °C. 
 5. Rasp de aardappelen grof en knijp het vocht er uit, stop daarna bij het eiermengsel in de kom.

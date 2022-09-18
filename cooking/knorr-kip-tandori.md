@@ -17,11 +17,12 @@ Aparte eigen implementatie van, but it works (for me).
 4. Wacht 10 min
 5. Zet het gas aan, van de roerbak
 6. Bak de kip redelijk gaar en voeg daarna de hollandse groente toe.
-7. Bak ~8 min. 
+7. Bak \~8 min. 
 8. Rijst mag van het vuur als al het water verdwenen is.
 9. Kook 200 ml water in de waterkoker.
 10. Doe het warme water in een schaaltje en meng de kip tandori sausmix er in.
 11. Gooi de saus bij de kip/groente. en bak eventjes mee.
+
 
 ## Notes for next time
 

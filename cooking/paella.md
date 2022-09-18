@@ -12,7 +12,7 @@ WiP, 2 personen
 * 125 g rauwe chorizo ah excellent
 * 4 trostomaten
 * 1/2 teen knoflook
-*  1/2 eetlepel fijngehakte peterselie
+* 1/2 eetlepel fijngehakte peterselie
 * 150g diepvries tuinerwten
 * 1 paprika
 

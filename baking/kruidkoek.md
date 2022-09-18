@@ -14,7 +14,7 @@
 
 ## Ingredienten
 
-* 500 gram Zelfrijzend bakmeel
+* 500 gram Zelfrijzend bakmeel (=15g bakpoeder)
 * 500 gram Bruine suiker
 * 250 gram Rozijnen
 * 1 Ei
