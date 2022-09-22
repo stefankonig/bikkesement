@@ -46,7 +46,7 @@ Recept voor 12+ muffins.
 3. Meng de eieren + zonnebloem olie + karnemelk + vanille extract in een aparte kom & meng door elkaar met een garde.
 4. Gooi inhoud van beide kommen bij elkaar en goed roeren met de spatel (het mag wel een beetje kloterig blijven).
 5. Schil de appels, verwijder het klokhuis en snijd de appel in blokjes.
-6. Meng de appelblokjes met de lichtbruine basterdsuiker, kaneel en kneip wat sap uit een halve citroen
+6. Meng de appelblokjes met de lichtbruine basterdsuiker, kaneel en knijp wat sap uit een halve citroen
 7. Meng 2/3 van de appelblokjes door het beslag.
 8. Vul de papieren vormpjes met het beslag, De vormpjes mogen redelijk vol (ongeveer een halve centimeter onder de rand).
 9. Voeg de resterende appelstukjes & wat grove kaneel suiker bovenop de muffins.
