@@ -9,7 +9,7 @@
 * 250 gram zuurkool naturel (gaat per 500g)
 * 2 elstar appels
 * Spekreepjes
-* Peper & zout
+* Peper
 * Melk
 * Boter
 * Handje rozijnen

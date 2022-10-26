@@ -1,5 +1,6 @@
 # Cinnamon buns
 
+Was erg droog, zie cinnamon-rolls voor beter recept
 
 ## Benodigdheden
 
