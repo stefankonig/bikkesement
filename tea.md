@@ -2,25 +2,73 @@
 
 Small list of some tea's i have tried, want to try and suggested to try.
 
-## Tried
+# Puritea
 
-##### Puritea
-* [Ceylon Earl Grey](https://puritea.nl/product/thee/ceylon-earl-grey/) +1
-* [Apple Cinnamon](https://puritea.nl/product/thee/apple-cinnamon/)
-* [White Tea](https://puritea.nl/product/thee/white-tea/)
-* [Pomegranate Green](https://puritea.nl/product/thee/pomegranate-green/)
-* [Jasmine Green](https://puritea.nl/product/thee/jasmine-green/)
-* [Honey Rooibos](https://puritea.nl/product/thee/honey-rooibos/)
-* [Chamomile Lemon](https://puritea.nl/product/thee/chamomile-lemon/)
-* [Ceylon oolong](https://puritea.nl/product/thee/ceylon-oolong/)
-* [Orange Chai](https://puritea.nl/product/thee/orange-chai/)
+## Good
+
+* Ceylon Earl Grey (black)
+* Naturally Calm (herbal)
+* Soursop Green (green)
+* Ginger Peach (black)
+* Ceylon Green (green)
+* Pomegranate Green (green)
+* Supermint (herbal)
+* Blackmint (black)
+* Lapsang Souchong (black)
+
+## Neutral
+
+* White Tea (white)
+    * good, but too expesive for the product. go for white-dragon 
+* Jasmine Pearls (green)
+    * good, but too expesive for the product.
+* Ceylon Breakfast|Afternoon (black)
+    * default generic blacktea
+* Jasmine Green (green)
+* Honey Rooibos (herbal)
+* Chamomile Lemon (herbal)
+* Ceylon oolong (oolong)
+* Orange Chai (black)
+* Smooth Chai (black)
+
+## NFG
+
+all fruity tea's
+
+* Apple Cinnamon (fruity)
+* Lemongrass Rosehip (herbal)
 
 
-## Wants
+# The Art of tea (haarlem)
+
+## Good
+
+* White Dragon (white/green)
+* Yerba Mate (mate)
+* Ster-anijs (herbal - spice section)
+* Sinaasappel Gember (green)
+
+## Neutral
+
+* Columbian Black (black)
+    * generic black tea
+
+## NFG
+
+* Cuba libre (green)
+* Sweet Kurkuma (green)
+
+# Limburgia Voorhout
+
+## Good
+
+* Orientaalse Nacht (black)
+
+# Todo
 
 * [Hazo Jasmine Green Tea](https://dunyong.com/en/jasmine-green-tea-hazo-100g-13098)
 
-## Suggested
+# Suggested
 
 * [Windsor castle](https://www.amazon.de/s?k=windsor+castle+earl+grey&i=grocery&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2) earl grey/orange pekoe  
 * [Basilur](https://riselro.com/nl/t/category/ceylon-tea) Tea Book [thisversion](https://www.basilurtea.com/products/miniature-tea-book-volume-1)
