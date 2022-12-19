@@ -15,7 +15,7 @@ Recept voor x rolls.
 * blikje croissantdeeg (voor 6 croissants)
 * 50 gram boter of plantenmargarine (gesmolten)
 * 2 theelepels kaneel
-* ~100 gram lichte basterdsuiker
+* \~100 gram lichte basterdsuiker
 
 ## Uitvoering
 

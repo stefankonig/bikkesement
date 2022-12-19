@@ -5,7 +5,7 @@
 ## Ingredienten
 
 * 1 ui
-* ~400g vastkokende aardappelen 
+* ~400g vastkokende aardappelen
 * 2 eieren
 * 150g beenham reepjes
 * 25g bloem
@@ -20,7 +20,7 @@
 1. Snipper de ui.
 2. Meng met de ui, eieren, bloem, beenham reepjes, peper en eventueel zout in een kom.
 3. Schil de aardappelen.
-4. Verwarm de oven voor op 220 °C. 
+4. Verwarm de oven voor op 220 °C.
 5. Rasp de aardappelen grof en knijp het vocht er uit, stop daarna bij het eiermengsel in de kom.
 6. Verdeel het röstimengsel in een rechthoek van 1 cm dik over een met bakpapier beklede bakplaat en bak in 20 min goudgeel en gaar.
 7. Snijd ondertussen de mozzarella en courgettes in plakjes van ca. een ½ cm dik (en halveer de cherrytomaten).
