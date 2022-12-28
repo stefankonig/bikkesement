@@ -29,7 +29,7 @@ Recept voor 6 croissants. zelfde als cinnamon rolls, maar dan in croissant vorm
 
 ## Bewaren
 
-* 2-3 dagen houdbaar afgesloten (koelkast?)
+* 2-3 dagen houdbaar afgesloten
 
 ## Notes for next time
 
