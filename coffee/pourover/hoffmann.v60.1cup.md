@@ -35,7 +35,7 @@
 ![Manual Part 1](assets/hoffmann-grind-size.png)  
 *Finer than you would think* - hoffmann
 
-JX-Pro: ~**3-2-0**
+JX-Pro: ~**3-0-0** (untested)
 > need to go finer, water goes through quickly (skonig)
 
 

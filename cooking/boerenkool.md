@@ -18,12 +18,11 @@ Boerenkool a la sepa
 2. Pan op vuur, zodat aardappelen en het water tegelijk warm worden.
 3. voeg groentje bouillon blokje toe aan de aardappelen.
 4. Nadat het water kookt, wacht 12 minuten, hierna boerenkool toevoegen bovenop de aardappelen.
-5. 5 minuten later de worst in de magnetron doen 3 min @ 300
-6. Haal de worst uit de magnetron.
-7. Haal de boerenkool van het vuur afhalen en giet af.
-8. Doe 1,5 flinke theelepels honing mosterd er bij + peper.
-9. STAMP0n.
-10. Et0n.
+5. 8 minuten later de boerenkool afgieten.
+6. Doe de worst in de magnetron voor 3 min @ 300w.
+7. Doe 1,5 flinke theelepels honing mosterd er bij + peper.
+8. STAMP0n.
+9. Et0n.
 
 ## Notes for next time
 
