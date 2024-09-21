@@ -50,6 +50,7 @@ Recept voor 6 muffins.
 
 ## Notes for next time
 
+* paneermeel gebruiken in muffinvorm
 * Wat appel toevoegen
 * Kruimels medium groot laten
 
