@@ -4,8 +4,7 @@
 
 ## Benodigdheden
 
-* Kom met mixer
-* Kom
+* 2x Kom
 * Schaaltje
 * Weegschaal
 * Spatel
@@ -14,14 +13,12 @@
 
 ## Ingredienten
 
-* 50 gram roomboter
-* 50 gram margarine
-* 50 gram amandelmeel (optioneel, kan ook 250 gram bloem gebruiken)
-* 200 gram zeeuwse bloem
-* 200 gram witte basterd suiker
+* 100 gram boter
+* 250 gram (zeeuwse) bloem
+* 200 gram (witte/bruine) basterd suiker
 * 60 ml melk
 * 2 eieren
-* 3 rijpe bananen ongeveer 300-350 gram
+* 2/3 rijpe bananen ongeveer 200-300 gram
 * 1 tl vanille-extract
 * 1 tl gemalen kaneel
 * 1 tl baking soda
@@ -48,7 +45,6 @@
 
 ## Notes for next time
 
-* proberen zonder amandelmeel
 * melk vervangen door crème fraîche
 
 ### Sources
