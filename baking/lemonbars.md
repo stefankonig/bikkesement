@@ -38,9 +38,9 @@ Eigenlijk een vierkante bakvorm, maar bij gebrek aan, een ronde gebruikt.
 ## Uitvoering
 
 1. Vet een de bakvorm lichtjes in met boter. Dit doe je zodat het bakpapier blijft zitten.
-2. Mix de boter en suiker met een handmixer.
-3. Voeg bloem en zout toe en mix tot dit is opgenomen.
-4. Neem het in delen en leg in de bakvorm, alles samendrukkend tot je een dichte deegbodem hebt.
+2. Voeg bloem, zout, boter en suiker toe aan een kom.
+3. mix dit alles met de hand tot een bol met deeg
+4. leg het deeg in de bakvorm, alles samendrukkend tot je een dichte deegbodem hebt.
 5. Bak de koekbodem in ~20 minuten op 180 °C (boven- en onderwarmte), totdat de randen goudbruin beginnen te worden.
 6. Terwijl de koekbodem in de oven staat, kun je gelijk verder met de citroenlaag. Mix in de mengkom de eieren en kristalsuiker op de middelste stand zo’n 2 à 3 minuten tot het een lichtgekleurd geheel is.
 7. Voeg citroensap toe, citroenrasp en vanille-extract, en zeef bloem en bakpoeder erboven.

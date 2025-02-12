@@ -45,6 +45,7 @@
 
 ## Notes for next time
 
+* Chocolade stukjes erin proberen
 * melk vervangen door crème fraîche
 
 ### Sources
