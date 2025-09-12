@@ -50,13 +50,13 @@ all fruity tea's
 
 ## Neutral
 
+* Sweet Kurkuma (green)
 * Columbian Black (black)
     * generic black tea
 
 ## NFG
 
 * Cuba libre (green)
-* Sweet Kurkuma (green)
 
 # Limburgia Voorhout
 
