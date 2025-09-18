@@ -18,14 +18,15 @@
 
 ### Cake
 * 4 eieren (op kamertemp)
-* 120 gram fijne kristal suiker
-* 120 gram bloem
+* 100 gram fijne kristal suiker
+* 100 gram bloem
 * 1/2 theelepel vanille extract
 * Poedersuiker
 
 ### Vulling
 * 200 gram jam
-* 300 ml Slagroom
+* 225 gram diepvries aardbeijen
+* 300 ml verse slagroom
 * 100 gram mascarpone
 * 1 theelepel vanille extract
 
@@ -34,27 +35,30 @@
 0. Voorverwarmen van de oven op 180 graden. en bereid de bakplaat voor met bakpapier ingevet met boter.
 1. Doe de 4 eieren, suiker en vanille extract in een kom en mix voor 5-7 min. Tot de "ribbon stage"
 2. voorzichtig de (bloem + snuf zout) stapgewijs er bij doen in en lichtjes roeren. niet te veel omdat het luchtig moet blijven.
-3. Doe in de oven op 180 graden voor ~15 min. Goudbruin
+3. Doe in de oven op 180 graden voor ~17 min. Goudbruin
 4. Zodra de cake uit de oven is, sprinkel een goede laag poedersuiker er overheen met een zeef.
-5. Leg een vochtige theedoek over de bakplaat en een snijplank oid er overheen, en keer de bakplaat met cake om.
+5. Leg een theedoek over de bakplaat en een snijplank oid er overheen, en keer de bakplaat met cake om.
 6. Haal het bakpapier er af en rol de cake met theedoek en al op.
 7. Laat 30 min afkoelen.
 
 ### Deel 2
-8. Slagroom met mascarpone en vanille-extract mixen. en (mashed fruit er doorheen?)
+8. Slagroom met mascarpone en vanille-extract mixen.
 9. Warm 200 gram jam op in een pannetje.
 10. Spreid de jam over de gehele cake met de achterkant van een lepel.
 11. Spreid de Room over de gehele cake met een spatel.
+12. Spreid de aarbeijen over de room
 12. Rol terug op. en encase het met plasticwrap.
 20. 2 uur in de koelkast
 
 ## Bewaren
 
-* 4 dagen in koelkast
+* 1 dag in koelkast
+* 1 maand in de vriezer?
 
 ## Notes for next time
 
-*
+* De cake was te dik. En hij plakte vast aan de theedoek waardoor hij scheurde. Mogelijk nog niet goed gaar genoeg.
+* De vulling was te slap. volgende keer dikkere vulling fixen. fruit er niet doorheen mixen van te voren.
 
 ### Sources
 * [Reddit - Homemade Swiss Roll with Raspberry Jam and Fresh Cream](https://www.reddit.com/r/Baking/comments/1ni0jqf/homemade_swiss_roll_with_raspberry_jam_and_fresh/)
