@@ -26,8 +26,8 @@
 ### Vulling
 * 200 gram jam
 * 225 gram diepvries aardbeijen
-* 300 ml verse slagroom
-* 100 gram mascarpone
+* ?? ml verse slagroom
+* ?? gram mascarpone
 * 1 theelepel vanille extract
 
 
@@ -58,7 +58,7 @@
 ## Notes for next time
 
 * De cake was te dik. En hij plakte vast aan de theedoek waardoor hij scheurde. Mogelijk nog niet goed gaar genoeg.
-* De vulling was te slap. volgende keer dikkere vulling fixen. fruit er niet doorheen mixen van te voren.
+* De vulling was te slap. volgende keer dikkere vulling fixen. fruit er niet doorheen mixen?
 
 ### Sources
 * [Reddit - Homemade Swiss Roll with Raspberry Jam and Fresh Cream](https://www.reddit.com/r/Baking/comments/1ni0jqf/homemade_swiss_roll_with_raspberry_jam_and_fresh/)
