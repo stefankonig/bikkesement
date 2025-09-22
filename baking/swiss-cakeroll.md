@@ -18,8 +18,8 @@
 
 ### Cake
 * 4 eieren (op kamertemp)
-* 100 gram fijne kristal suiker
-* 100 gram bloem
+* 120 gram fijne kristal suiker
+* 120 gram bloem
 * 1/2 theelepel vanille extract
 * Poedersuiker
 
@@ -57,7 +57,7 @@
 
 ## Notes for next time
 
-* De cake was te dik. En hij plakte vast aan de theedoek waardoor hij scheurde. Mogelijk nog niet goed gaar genoeg.
+* De cake plakte vast aan de theedoek waardoor hij scheurde. Mogelijk nog niet goed gaar genoeg.
 * De vulling was te slap. volgende keer dikkere vulling fixen. fruit er niet doorheen mixen?
 
 ### Sources
